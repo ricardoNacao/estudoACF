@@ -24,7 +24,7 @@
 define('DB_NAME', 'voltando_ao_anterior');
 
 /** Usuário do banco de dados MySQL */
-define('DB_USER', 'nome_banco');
+define('DB_USER', 'nome_banchho');
 
 /** Senha do banco de dados MySQL */
 define('DB_PASSWORD', 'senha_aqui');
